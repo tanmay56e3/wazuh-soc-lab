@@ -106,11 +106,7 @@ Simulated real-world attacks from Kali Linux and verified detection in Wazuh:
 
 ---
 
-## 👤 Author
 
-**Vishard5911**  
-Aspiring SOC Analyst | Blue Team Enthusiast  
-🔗 [GitHub](https://github.com/Vishard5911)
 
 ---
 
