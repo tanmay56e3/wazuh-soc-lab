@@ -104,6 +104,13 @@ Simulated real-world attacks from Kali Linux and verified detection in Wazuh:
 <img width="1228" height="592" alt="image" src="https://github.com/user-attachments/assets/39c0d58a-1d47-4680-adaf-aa9e102e7040" />
 
 
+## 👥 Group Members
+
+- Tanmay Bhatt   Sap Id-1000021909  
+- Antriksh Kumar Sap Id-1000021892  
+- Tenzin Shedup  Sap Id-1000026895 
+
+
 ---
 
 
